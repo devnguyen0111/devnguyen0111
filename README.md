@@ -27,3 +27,4 @@ You can find me at:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Thank you.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzgamingvn&label=Profile%20views&color=0e75b6&style=flat" alt="mzgamingvn" /> </p>
