@@ -21,6 +21,6 @@ You can find me at:
 - [Facebook](https://www.facebook.com/mzgaminglol/).
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 Thank you.
