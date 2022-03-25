@@ -16,11 +16,14 @@ I am Nhut Nguyen K16. I am studying **Software Engineering** at FPT University i
 # Social
 You can find me at:
 - Email: kieuphuongcsgo@gmail.com.
-- Discord : Nhứt Nguyên#2159
 - [Website](https://dev-nguyen.glitch.me).
 - [Steam](https://steamcommunity.com/id/kieuphuong1905/).
 - [GitHub](https://github.com/mzgamingvn).
 - [Facebook](https://www.facebook.com/mzgaminglol/).
+- My discord:
+<a align="center" href="https://discord.com/users/229203044372316160">
+<img align="center" src="https://discord.c99.nl/widget/theme-3/229203044372316160.png" alt="Discord"/>
+<img src="https://discord.com/api/guilds/229203044372316160/widget.png?style=banner2"></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
