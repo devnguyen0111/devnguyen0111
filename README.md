@@ -1,7 +1,7 @@
 
 ### Hello, welcome to my github.
 I am Nhut Nguyen K16. I am studying **Software Engineering** at FPT University in HCMC.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzgamingvn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzgamingvn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzgamingvn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
