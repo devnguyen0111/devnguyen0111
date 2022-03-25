@@ -22,8 +22,7 @@ You can find me at:
 - [Facebook](https://www.facebook.com/mzgaminglol/).
 - My discord:
 <a align="center" href="https://discord.com/users/229203044372316160">
-<img align="center" src="https://discord.c99.nl/widget/theme-3/229203044372316160.png" alt="Discord"/>
-<img src="https://discord.com/api/guilds/229203044372316160/widget.png?style=banner2"></a>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
