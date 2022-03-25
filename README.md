@@ -15,7 +15,7 @@ I am Nhut Nguyen, I am studying **Software Engineering** at FPT University in HC
 
 # Social
 You can find me at:
-- [Email]: kieuphuongcsgo@gmail.com.
+- Email: kieuphuongcsgo@gmail.com.
 - [Website](https://dev-nguyen.glitch.me).
 - [Steam](https://steamcommunity.com/id/kieuphuong1905/).
 - [GitHub](https://github.com/mzgamingvn).
