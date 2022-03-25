@@ -20,4 +20,7 @@ You can find me at:
 - [GitHub](https://github.com/mzgamingvn).
 - [Facebook](https://www.facebook.com/mzgaminglol/).
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 Thank you.
