@@ -20,8 +20,7 @@ You can find me at:
 - [Steam](https://steamcommunity.com/id/kieuphuong1905/).
 - [GitHub](https://github.com/mzgamingvn).
 - [Facebook](https://www.facebook.com/mzgaminglol/).
-- My discord:
-<a align="center" href="https://discord.com/users/229203044372316160">
+
 
 
 ### ✍️Random Dev Quote
