@@ -6,6 +6,11 @@ I am Nhut Nguyen K16. I am studying **Software Engineering** at FPT University i
 # Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzgamingvn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## <p align="center">Just a snake eating my contributions 🐍</p>
+<p align='center'>
+<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 # Social
 You can find me at:
 - Email: kieuphuongcsgo@gmail.com.
