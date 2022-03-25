@@ -11,6 +11,8 @@ I am Nhut Nguyen K16. I am studying **Software Engineering** at FPT University i
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+![Cup nek](https://github-profile-trophy.vercel.app/?username=DarkEnderr&theme=radical)
+
 # Social
 You can find me at:
 - Email: kieuphuongcsgo@gmail.com.
