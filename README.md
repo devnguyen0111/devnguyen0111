@@ -3,9 +3,6 @@
 <img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80"> <a href="https://discord.com/users/229203044372316160"><img src="https://discord.c99.nl/widget/theme-2/229203044372316160.png" alt="discord" /></a> <img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80">
 </div>
 
-
-
-### Hello, welcome to my github.
 I am Nhut Nguyen, I am studying **Software Engineering** at FPT University in HCMC.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzgamingvn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
