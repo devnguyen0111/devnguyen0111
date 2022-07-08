@@ -8,30 +8,28 @@ I am Nhut Nguyen, I am studying **Software Engineering** at FPT University in HC
         width="84%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=mzgamingvn&theme=dracula"
     />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzgamingvn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzgamingvn&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=mzgamingvn&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mzgamingvn&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mzgamingvn&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-![Cup nek](https://github-profile-trophy.vercel.app/?username=mzgamingvn&theme=radical)
-
-# Social
-You can find me at:
-- Email: kieuphuongcsgo@gmail.com.
-- [Website](https://dev-nguyen.glitch.me).
-- [Steam](https://steamcommunity.com/id/kieuphuong1905/).
-- [GitHub](https://github.com/mzgamingvn).
-- [Facebook](https://www.facebook.com/mzgaminglol/).
-
-
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mzgamingvn&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Thank you.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mzgamingvn&label=Profile%20views&color=0e75b6&style=flat" alt="mzgamingvn" /> </p>
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mzgamingvn&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mzgamingvn) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
