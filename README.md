@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=03F700&center=true&vCenter=true&lines=Hi!+am+Nguy%C3%AAn+%F0%9F%91%8B;Owner+Patrick-Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=03F700&center=true&vCenter=true&lines=Hi!+am+Nguy%C3%AAn+%F0%9F%91%8B;I am Nhut Nguyen, I am studying Software Engineering at FPT University in HCMC.;Owner+Patrick-Bot)](https://git.io/typing-svg)
 <div align="center">
 <img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80"> <a href="https://discord.com/users/229203044372316160"><img src="https://discord.c99.nl/widget/theme-2/229203044372316160.png" alt="discord" /></a> <img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80">
 </div>
 
-I am Nhut Nguyen, I am studying **Software Engineering** at FPT University in HCMC.
 <img
         width="84%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=mzgamingvn&theme=dracula"
