@@ -28,7 +28,12 @@
 [![](https://visitcount.itsvg.in/api?id=mzgamingvn&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mzgamingvn) 
+        Stk  vietcombank : 1017086851
+        Stk sacombank : 060202878434
+        Stk Viet Capital Bank - Ngân hàng TMCP Bản Việt : 9021352905254
+        Momo : 0899455910
+        Stk MB Bank : 9111101112002
+        Stk viettel money (mb bank): 9704229253799568
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
