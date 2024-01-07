@@ -42,10 +42,6 @@ jobs:
           plugin_code_load: 100
           plugin_code_visibility: public
 
-          # Followup
-          #plugin_followup: yes
-          #plugin_followup_sections: repositories
-
           # Habits
           plugin_habits: yes
           plugin_habits_days: 14
@@ -92,11 +88,6 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-
-          # steam
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "76561198411793234"
 
           plugin_topics: yes
           plugin_topics_limit: 15
