@@ -20,6 +20,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
+          
 
           # Achievements
           plugin_achievements: yes
