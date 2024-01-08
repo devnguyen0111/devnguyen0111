@@ -16,9 +16,8 @@ jobs:
 
           # Options
           user: devnguyen0111
-          template: classic
           filename: github-metrics.svg
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           
 
