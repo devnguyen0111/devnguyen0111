@@ -19,7 +19,6 @@ jobs:
           template: classic
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
           
 
           # Achievements
@@ -41,12 +40,6 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
-
-          # Habits
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
 
           # Introduction
           plugin_introduction: yes
@@ -70,10 +63,6 @@ jobs:
 
           # Lines
           plugin_lines: yes
-
-          # Notable
-          plugin_notable: yes
-          plugin_notable_from: organization
 
           # Stars
           plugin_stars: yes
