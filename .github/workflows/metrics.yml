@@ -79,7 +79,7 @@ jobs:
           plugin_stars_limit: 4
 
           # Traffic
-          plugin_traffic: yes
+          # plugin_traffic: yes
 
           # Wakatime
           plugin_wakatime: yes
