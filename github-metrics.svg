@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.14563922371437" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="229.14563922371437" y="0" width="167.0679007920787" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="396.213540015793" y="0" width="26.218157552980667" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="422.4316975687737" y="0" width="14.563800296981597" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="436.9954978657553" y="0" width="14.130694329684207" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="451.12619219543944" y="0" width="3.6709860677561483" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="454.79717826319563" y="0" width="3.564227699516855" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.36140596271247" y="0" width="1.6385940372874999" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.02538667362788" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="229.02538667362788" y="0" width="166.98022580434642" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="396.0056124779743" y="0" width="26.204398616458917" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="422.2100110944332" y="0" width="14.556157410428767" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="436.766168504862" y="0" width="14.364680545585069" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="451.13084905044707" y="0" width="3.669059583632448" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="454.79990863407954" y="0" width="3.5623572407492006" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.3622658748287" y="0" width="1.6377341251713111" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,7 +323,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on SWP391-DSS-BE
+                            Working on Obfuscated-Code
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -358,29 +358,29 @@
                         <h3>Projects activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">SWP391-DSS-BE</span>
-                                <div class="bar" style="width: 20.144000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <span class="name">Obfuscated-Code</span>
+                                <div class="bar" style="width: 20.567999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Obfuscated-Code</span>
-                                <div class="bar" style="width: 20.055999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">SWP391-DSS-BE</span>
+                                <div class="bar" style="width: 19.991999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">DiamondShopSystem.API</span>
-                                <div class="bar" style="width: 14.831999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 14.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Neyo-Bot</span>
-                                <div class="bar" style="width: 12.368000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 12.687999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TEST-API</span>
-                                <div class="bar" style="width: 3.5759999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 3.6719999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -389,27 +389,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 40.728%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">51%</span>
+                                <div class="bar" style="width: 41.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 23.112%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.176000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Binary</span>
-                                <div class="bar" style="width: 11.887999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
+                                <div class="bar" style="width: 10.959999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XML</span>
-                                <div class="bar" style="width: 1.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.4080000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
-                                <div class="bar" style="width: 1.1199999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1003,7 +1003,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 205m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1091,7 +1091,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2024, 00:11:37 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2024, 01:16:21 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
