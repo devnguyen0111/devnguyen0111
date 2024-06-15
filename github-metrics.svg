@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            516 Commits
+                            518 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 62 repositories
+                            Starred 63 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    29 Stargazers
+                                    30 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.45740170255064" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="228.45740170255064" y="0" width="166.55966852455046" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.0170702271011" y="0" width="26.1394114776686" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.15648170476965" y="0" width="15.389006445418861" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="436.54548815018853" y="0" width="14.520774106919458" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.066262257108" y="0" width="3.659960283630131" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="454.7262225407381" y="0" width="3.589197102108885" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.315419642847" y="0" width="1.6845803571529658" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.90828177772846" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="227.90828177772846" y="0" width="167.2649813380499" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.17326311577835" y="0" width="26.076582820953845" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.2498459367322" y="0" width="15.352017448785698" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="436.6018633855179" y="0" width="14.485871992448535" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.08773537796645" y="0" width="3.6511632076727674" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="454.7388985856392" y="0" width="3.5805701124460674" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.31946869808525" y="0" width="1.6805313019147328" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -713,7 +713,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.51256281407035 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="48.29145728643216 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -732,7 +732,7 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 62 repositories</div>
+                                <div class="text">Starred 63 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1003,7 +1003,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 207m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1091,7 +1091,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2024, 01:15:18 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2024, 02:10:10 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
