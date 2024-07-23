@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.05893102650654" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="202.05893102650654" y="0" width="177.88968757103277" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="379.9486185975393" y="0" width="29.62963584166367" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="409.57825443920296" y="0" width="24.18611357830851" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.7643680175115" y="0" width="14.621963052453339" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.38633106996485" y="0" width="4.8503042580099915" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="453.2366353279748" y="0" width="3.5263162901450844" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="456.76295161811987" y="0" width="3.237048381880101" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.04906790800413" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="202.04906790800413" y="0" width="177.88100422771325" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="379.9300721357174" y="0" width="29.65064354411989" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="409.5807156798373" y="0" width="24.184932979642944" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.76564865948023" y="0" width="14.621249309420097" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.3868979689003" y="0" width="4.850067499726522" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="453.23696546862686" y="0" width="3.5261441597904892" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="456.76310962841734" y="0" width="3.236890371582678" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -848,7 +848,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.71m out of 196m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1091,7 +1091,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2024, 16:13:22 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2024, 17:12:42 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
