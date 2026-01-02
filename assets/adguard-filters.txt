@@ -1,0 +1,175 @@
+﻿! Title: Custom Block List
+! Description: Blocks ads, analytics, error trackers, social trackers, and OEM tracking
+! Version: 1.0
+! Last modified: 2024
+
+! ==========================================
+! Ads
+! ==========================================
+||amazon-adsystem.com^
+||amazon-adsystem.com^$third-party
+||aax-us-east.amazon-adsystem.com^
+||aax-us-west.amazon-adsystem.com^
+||aax-eu.amazon-adsystem.com^
+||aax-fe.amazon-adsystem.com^
+||doubleclick.net^
+||doubleclick.net^$third-party
+||googlesyndication.com^
+||googlesyndication.com^$third-party
+||media.net^
+||media.net^$third-party
+||googletagmanager.com^
+||googletagmanager.com^$third-party
+||googleadservices.com^
+||googleadservices.com^$third-party
+||googleads.g.doubleclick.net^
+||adcolony.com^
+||adcolony.com^$third-party
+||adc3-launch.adcolony.com^
+||adc3-launch.adcolony.com^$third-party
+
+! ==========================================
+! Analytics
+! ==========================================
+||google-analytics.com^
+||google-analytics.com^$third-party
+||googletagmanager.com/gtag/js^
+||analytics.google.com^
+||analytics.google.com^$third-party
+||mouseflow.com^
+||mouseflow.com^$third-party
+||cdn.mouseflow.com^
+||cdn.mouseflow.com^$third-party
+||luckorange.com^
+||luckorange.com^$third-party
+||luckyorange.net^
+||luckyorange.net^$third-party
+||hotjar.com^
+||hotjar.com^$third-party
+||static.hotjar.com^
+||static.hotjar.com^$third-party
+||freshworks.com^
+||freshworks.com^$third-party
+||stats.wp.com^
+||stats.wp.com^$third-party
+||pixel.wp.com^
+||pixel.wp.com^$third-party
+
+! ==========================================
+! Error Trackers
+! ==========================================
+||bugsnag.com^
+||bugsnag.com^$third-party
+||notify.bugsnag.com^
+||notify.bugsnag.com^$third-party
+||sentry.io^
+||sentry.io^$third-party
+||sentry-cdn.com^
+||sentry-cdn.com^$third-party
+||browser.sentry-cdn.com^
+||browser.sentry-cdn.com^$third-party
+
+! ==========================================
+! Social Trackers
+! ==========================================
+||facebook.com^$third-party
+||facebook.net^
+||facebook.net^$third-party
+||fbcdn.net^
+||fbcdn.net^$third-party
+||connect.facebook.net^
+||connect.facebook.net^$third-party
+||linkedin.com^$third-party
+||licdn.com^
+||licdn.com^$third-party
+||linkedin.com/px^
+||reddit.com^$third-party
+||redditstatic.com^
+||redditstatic.com^$third-party
+||redditmedia.com^
+||redditmedia.com^$third-party
+||tiktok.com^$third-party
+||tiktokcdn.com^
+||tiktokcdn.com^$third-party
+||tiktokv.com^
+||tiktokv.com^$third-party
+||twitter.com^$third-party
+||twimg.com^
+||twimg.com^$third-party
+||twitter.com/i/adsct^
+||pinterest.com^$third-party
+||pinimg.com^
+||pinimg.com^$third-party
+||pinterest.com/ct^
+||youtube.com^$third-party
+||ytimg.com^
+||ytimg.com^$third-party
+||googlevideo.com^
+||googlevideo.com^$third-party
+||youtube.com/api/stats^
+||youtube.com/ptracking^
+||youtube.com/pagead^
+||doubleclick.net^$domain=youtube.com
+
+! ==========================================
+! Mix (Yahoo, Unity, Yandex)
+! ==========================================
+||yahoo.com^$third-party
+||yimg.com^
+||yimg.com^$third-party
+||yahooapis.com^
+||yahooapis.com^$third-party
+||unity3d.com^$third-party
+||unityads.unity3d.com^
+||unityads.unity3d.com^$third-party
+||unity.com^$third-party
+||yandex.ru^$third-party
+||yandex.com^$third-party
+||yandex.net^
+||yandex.net^$third-party
+||yandex.ru/ads^
+||yandex.com/ads^
+||mc.yandex.ru^
+||mc.yandex.ru^$third-party
+
+! ==========================================
+! OEMs (Device Manufacturers)
+! ==========================================
+||realme.com^$third-party
+||realme.com/analytics^
+||oppo.com^$third-party
+||oppo.com/analytics^
+||oneplus.com^$third-party
+||oneplus.com/analytics^
+||apple.com^$third-party
+||apple.com/analytics^
+||apple.com/apple-news^
+||icloud.com^$third-party
+||appleid.apple.com^$third-party
+||xiaomi.com^$third-party
+||xiaomi.com/analytics^
+||mi.com^$third-party
+||mi.com/analytics^
+||huawei.com^$third-party
+||huawei.com/analytics^
+||samsung.com^$third-party
+||samsung.com/analytics^
+||samsungcloudsolution.com^
+||samsungcloudsolution.com^$third-party
+||samsungcloudsolution.net^
+||samsungcloudsolution.net^$third-party
+
+! ==========================================
+! Additional blocking rules
+! ==========================================
+||google-analytics.com/analytics.js^
+||google-analytics.com/ga.js^
+||googletagmanager.com/gtm.js^
+||facebook.com/tr^
+||facebook.com/connect^
+||linkedin.com/px^
+||pinterest.com/ct^
+||twitter.com/i/adsct^
+||youtube.com/api/stats/watchtime^
+||youtube.com/ptracking^
+||doubleclick.net^$domain=~doubleclick.net
