@@ -1,77 +1,175 @@
-﻿! Title: Custom Block List
-! Description: Blocks ads, analytics, error trackers, social trackers, and OEM tracking
-! Version: 1.0
+! Title: AdGuard DNS filter by DevNguyen0111
+! Description: Comprehensive filter blocking ads, analytics, error trackers, social trackers, and OEM tracking
+! Version: 1.0.0
 ! Last modified: 2024
-
+! Homepage: https://github.com/AdguardTeam/AdguardFilters
+! License: GPL-3.0
+!
 ! ==========================================
-! Ads
+! Ads Blocking
 ! ==========================================
+!
+! Amazon Ads
 ||amazon-adsystem.com^
 ||amazon-adsystem.com^$third-party
 ||aax-us-east.amazon-adsystem.com^
 ||aax-us-west.amazon-adsystem.com^
 ||aax-eu.amazon-adsystem.com^
 ||aax-fe.amazon-adsystem.com^
+||aax-fe-jp.amazon-adsystem.com^
+||aax-fe-sin.amazon-adsystem.com^
+||fls-na.amazon-adsystem.com^
+||fls-eu.amazon-adsystem.com^
+||fls-fe.amazon-adsystem.com^
+||amazon-adsystem.com/ads^
+||amazon-adsystem.com/atd^
+!
+! DoubleClick / Google Ads
 ||doubleclick.net^
 ||doubleclick.net^$third-party
 ||googlesyndication.com^
 ||googlesyndication.com^$third-party
-||media.net^
-||media.net^$third-party
-||googletagmanager.com^
-||googletagmanager.com^$third-party
 ||googleadservices.com^
 ||googleadservices.com^$third-party
 ||googleads.g.doubleclick.net^
+||googleads.g.doubleclick.net^$third-party
+||adservice.google.com^
+||adservice.google.com^$third-party
+||adservice.google.*^
+||adservice.google.*^$third-party
+||pagead2.googlesyndication.com^
+||pagead2.googlesyndication.com^$third-party
+||tpc.googlesyndication.com^
+||tpc.googlesyndication.com^$third-party
+!
+! Media.net
+||media.net^
+||media.net^$third-party
+||contextual.media.net^
+||contextual.media.net^$third-party
+||cdn.media.net^
+||cdn.media.net^$third-party
+!
+! AdColony
 ||adcolony.com^
 ||adcolony.com^$third-party
 ||adc3-launch.adcolony.com^
 ||adc3-launch.adcolony.com^$third-party
-
+||adc3-launch-*.adcolony.com^
+||adc3-launch-*.adcolony.com^$third-party
+||adc3-assets.adcolony.com^
+||adc3-assets.adcolony.com^$third-party
+!
 ! ==========================================
-! Analytics
+! Analytics Blocking
 ! ==========================================
+!
+! Google Analytics
 ||google-analytics.com^
 ||google-analytics.com^$third-party
-||googletagmanager.com/gtag/js^
 ||analytics.google.com^
 ||analytics.google.com^$third-party
+||googletagmanager.com^
+||googletagmanager.com^$third-party
+||google-analytics.com/analytics.js^
+||google-analytics.com/ga.js^
+||google-analytics.com/gtm.js^
+||googletagmanager.com/gtag/js^
+||googletagmanager.com/gtm.js^
+||www.google-analytics.com^
+||www.google-analytics.com^$third-party
+||ssl.google-analytics.com^
+||ssl.google-analytics.com^$third-party
+||www.googletagmanager.com^
+||www.googletagmanager.com^$third-party
+!
+! MouseFlow
 ||mouseflow.com^
 ||mouseflow.com^$third-party
 ||cdn.mouseflow.com^
 ||cdn.mouseflow.com^$third-party
+||app.mouseflow.com^
+||app.mouseflow.com^$third-party
+||api.mouseflow.com^
+||api.mouseflow.com^$third-party
+!
+! LuckyOrange
 ||luckorange.com^
 ||luckorange.com^$third-party
 ||luckyorange.net^
 ||luckyorange.net^$third-party
+||cdn.luckyorange.com^
+||cdn.luckyorange.com^$third-party
+||api.luckyorange.com^
+||api.luckyorange.com^$third-party
+!
+! Hotjar
 ||hotjar.com^
 ||hotjar.com^$third-party
 ||static.hotjar.com^
 ||static.hotjar.com^$third-party
+||script.hotjar.com^
+||script.hotjar.com^$third-party
+||insights.hotjar.com^
+||insights.hotjar.com^$third-party
+||api.hotjar.com^
+||api.hotjar.com^$third-party
+!
+! FreshWorks (Freshdesk, Freshchat, etc.)
 ||freshworks.com^
 ||freshworks.com^$third-party
+||freshdesk.com^
+||freshdesk.com^$third-party
+||freshchat.com^
+||freshchat.com^$third-party
+||wchat.freshchat.com^
+||wchat.freshchat.com^$third-party
+||cdn.freshchat.com^
+||cdn.freshchat.com^$third-party
+!
+! WordPress Stats
 ||stats.wp.com^
 ||stats.wp.com^$third-party
 ||pixel.wp.com^
 ||pixel.wp.com^$third-party
-
+||wordpress.com/mshots/v1^
+||wordpress.com/mshots/v1^$third-party
+!
 ! ==========================================
-! Error Trackers
+! Error Trackers Blocking
 ! ==========================================
+!
+! Bugsnag
 ||bugsnag.com^
 ||bugsnag.com^$third-party
 ||notify.bugsnag.com^
 ||notify.bugsnag.com^$third-party
+||d2wy8f7a9ursnm.cloudfront.net^$domain=bugsnag.com
+||d2wy8f7a9ursnm.cloudfront.net^$third-party
+||app.bugsnag.com^
+||app.bugsnag.com^$third-party
+||api.bugsnag.com^
+||api.bugsnag.com^$third-party
+!
+! Sentry
 ||sentry.io^
 ||sentry.io^$third-party
 ||sentry-cdn.com^
 ||sentry-cdn.com^$third-party
 ||browser.sentry-cdn.com^
 ||browser.sentry-cdn.com^$third-party
-
+||*.ingest.sentry.io^
+||*.ingest.sentry.io^$third-party
+||app.getsentry.com^
+||app.getsentry.com^$third-party
+||api.sentry.io^
+||api.sentry.io^$third-party
+!
 ! ==========================================
-! Social Trackers
+! Social Trackers Blocking
 ! ==========================================
+!
+! Facebook
 ||facebook.com^$third-party
 ||facebook.net^
 ||facebook.net^$third-party
@@ -79,28 +177,70 @@
 ||fbcdn.net^$third-party
 ||connect.facebook.net^
 ||connect.facebook.net^$third-party
+||facebook.com/tr^
+||facebook.com/connect^
+||facebook.com/plugins^
+||facebook.com/beacon^
+||graph.facebook.com^
+||graph.facebook.com^$third-party
+||staticxx.facebook.com^
+||staticxx.facebook.com^$third-party
+!
+! LinkedIn
 ||linkedin.com^$third-party
 ||licdn.com^
 ||licdn.com^$third-party
 ||linkedin.com/px^
+||snap.licdn.com^
+||snap.licdn.com^$third-party
+||px.ads.linkedin.com^
+||px.ads.linkedin.com^$third-party
+!
+! Reddit
 ||reddit.com^$third-party
 ||redditstatic.com^
 ||redditstatic.com^$third-party
 ||redditmedia.com^
 ||redditmedia.com^$third-party
+||redd.it^
+||redd.it^$third-party
+||events.reddit.com^
+||events.reddit.com^$third-party
+!
+! TikTok
 ||tiktok.com^$third-party
 ||tiktokcdn.com^
 ||tiktokcdn.com^$third-party
 ||tiktokv.com^
 ||tiktokv.com^$third-party
+||tiktok.com/api/ad^
+||tiktok.com/api/stats^
+||analytics.tiktok.com^
+||analytics.tiktok.com^$third-party
+!
+! Twitter / X
 ||twitter.com^$third-party
 ||twimg.com^
 ||twimg.com^$third-party
 ||twitter.com/i/adsct^
+||ads-twitter.com^
+||ads-twitter.com^$third-party
+||analytics.twitter.com^
+||analytics.twitter.com^$third-party
+||syndication.twitter.com^
+||syndication.twitter.com^$third-party
+!
+! Pinterest
 ||pinterest.com^$third-party
 ||pinimg.com^
 ||pinimg.com^$third-party
 ||pinterest.com/ct^
+||analytics.pinterest.com^
+||analytics.pinterest.com^$third-party
+||ads.pinterest.com^
+||ads.pinterest.com^$third-party
+!
+! YouTube
 ||youtube.com^$third-party
 ||ytimg.com^
 ||ytimg.com^$third-party
@@ -109,20 +249,38 @@
 ||youtube.com/api/stats^
 ||youtube.com/ptracking^
 ||youtube.com/pagead^
+||youtube.com/get_video_info^
+||youtube.com/api/stats/watchtime^
 ||doubleclick.net^$domain=youtube.com
-
+||googleads.g.doubleclick.net^$domain=youtube.com
+!
 ! ==========================================
 ! Mix (Yahoo, Unity, Yandex)
 ! ==========================================
+!
+! Yahoo
 ||yahoo.com^$third-party
 ||yimg.com^
 ||yimg.com^$third-party
 ||yahooapis.com^
 ||yahooapis.com^$third-party
+||yahoo.com/ads^
+||ads.yahoo.com^
+||ads.yahoo.com^$third-party
+||analytics.yahoo.com^
+||analytics.yahoo.com^$third-party
+!
+! Unity Ads
 ||unity3d.com^$third-party
 ||unityads.unity3d.com^
 ||unityads.unity3d.com^$third-party
 ||unity.com^$third-party
+||unityads.unity3d.com/api^
+||unityads.unity3d.com/games^
+||analytics.cloud.unity3d.com^
+||analytics.cloud.unity3d.com^$third-party
+!
+! Yandex
 ||yandex.ru^$third-party
 ||yandex.com^$third-party
 ||yandex.net^
@@ -131,45 +289,116 @@
 ||yandex.com/ads^
 ||mc.yandex.ru^
 ||mc.yandex.ru^$third-party
-
+||metrika.yandex.ru^
+||metrika.yandex.ru^$third-party
+||metrika.yandex.com^
+||metrika.yandex.com^$third-party
+||an.yandex.ru^
+||an.yandex.ru^$third-party
+!
 ! ==========================================
-! OEMs (Device Manufacturers)
+! OEMs (Device Manufacturers) Tracking
 ! ==========================================
+!
+! Realme
 ||realme.com^$third-party
 ||realme.com/analytics^
+||realme.com/tracking^
+||analytics.realme.com^
+||analytics.realme.com^$third-party
+!
+! Oppo
 ||oppo.com^$third-party
 ||oppo.com/analytics^
+||oppo.com/tracking^
+||analytics.oppo.com^
+||analytics.oppo.com^$third-party
+||log.oppo.com^
+||log.oppo.com^$third-party
+!
+! OnePlus
 ||oneplus.com^$third-party
 ||oneplus.com/analytics^
+||oneplus.com/tracking^
+||analytics.oneplus.com^
+||analytics.oneplus.com^$third-party
+||log.oneplus.com^
+||log.oneplus.com^$third-party
+!
+! Apple
 ||apple.com^$third-party
 ||apple.com/analytics^
 ||apple.com/apple-news^
+||apple.com/tracking^
 ||icloud.com^$third-party
 ||appleid.apple.com^$third-party
+||analytics.apple.com^
+||analytics.apple.com^$third-party
+||metrics.apple.com^
+||metrics.apple.com^$third-party
+||appattest.apple.com^
+||appattest.apple.com^$third-party
+!
+! Xiaomi
 ||xiaomi.com^$third-party
 ||xiaomi.com/analytics^
+||xiaomi.com/tracking^
 ||mi.com^$third-party
 ||mi.com/analytics^
+||mi.com/tracking^
+||analytics.mi.com^
+||analytics.mi.com^$third-party
+||data.mistat.xiaomi.com^
+||data.mistat.xiaomi.com^$third-party
+||tracking.miui.com^
+||tracking.miui.com^$third-party
+!
+! Huawei
 ||huawei.com^$third-party
 ||huawei.com/analytics^
+||huawei.com/tracking^
+||analytics.huawei.com^
+||analytics.huawei.com^$third-party
+||logservice.hicloud.com^
+||logservice.hicloud.com^$third-party
+||logservice1.hicloud.com^
+||logservice1.hicloud.com^$third-party
+!
+! Samsung
 ||samsung.com^$third-party
 ||samsung.com/analytics^
+||samsung.com/tracking^
+||analytics.samsung.com^
+||analytics.samsung.com^$third-party
 ||samsungcloudsolution.com^
 ||samsungcloudsolution.com^$third-party
 ||samsungcloudsolution.net^
 ||samsungcloudsolution.net^$third-party
-
+||samsungapps.com^$third-party
+||samsungapps.com/analytics^
+||samsungdm.com^
+||samsungdm.com^$third-party
+!
 ! ==========================================
-! Additional blocking rules
+! Additional Comprehensive Rules
 ! ==========================================
-||google-analytics.com/analytics.js^
-||google-analytics.com/ga.js^
-||googletagmanager.com/gtm.js^
-||facebook.com/tr^
-||facebook.com/connect^
-||linkedin.com/px^
-||pinterest.com/ct^
-||twitter.com/i/adsct^
-||youtube.com/api/stats/watchtime^
-||youtube.com/ptracking^
-||doubleclick.net^$domain=~doubleclick.net
+!
+! Generic ad domains
+||advertising.com^
+||advertising.com^$third-party
+||advertising.net^
+||advertising.net^$third-party
+||adsafeprotected.com^
+||adsafeprotected.com^$third-party
+!
+! Generic tracking domains
+||tracking.*^
+||tracking.*^$third-party
+||analytics.*^
+||analytics.*^$third-party
+||metrics.*^
+||metrics.*^$third-party
+!
+! ==========================================
+! End of Filter
+! ==========================================
