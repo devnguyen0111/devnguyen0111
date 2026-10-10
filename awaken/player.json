@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-10",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-09",
         "cleared": 0,
         "total": 3
@@ -202,5 +207,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T21:36:55.255Z"
+  "syncedAt": "2026-10-10T20:32:48.026Z"
 }
