@@ -2,7 +2,7 @@
   "login": "devnguyen0111",
   "level": 9,
   "overall": "S",
-  "overallPercentile": 0.9700755862459363,
+  "overallPercentile": 0.9690608931073131,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 20,
+      "value": 19,
       "rank": "SS",
-      "percentile": 0.9936494649840901
+      "percentile": 0.9921949796194564
     },
     {
       "code": "LUK",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-19",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-18",
         "cleared": 0,
         "total": 3
@@ -247,5 +252,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-18T19:23:35.001Z"
+  "syncedAt": "2026-10-19T21:27:15.732Z"
 }
