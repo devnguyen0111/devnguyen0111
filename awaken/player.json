@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 48
+      "value": 49
     },
     {
       "id": "early-bird",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-24",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-23",
         "cleared": 0,
         "total": 3
@@ -272,5 +277,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-23T20:21:43.635Z"
+  "syncedAt": "2026-10-24T19:25:44.653Z"
 }
