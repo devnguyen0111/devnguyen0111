@@ -92,8 +92,8 @@
     },
     {
       "id": "gate-opener",
-      "tier": 2,
-      "value": 20
+      "tier": 1,
+      "value": 19
     },
     {
       "id": "raider",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-26",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-25",
         "cleared": 0,
@@ -282,5 +287,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-25T19:32:42.938Z"
+  "syncedAt": "2026-10-26T21:35:55.109Z"
 }
