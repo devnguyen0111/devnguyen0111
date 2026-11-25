@@ -2,7 +2,7 @@
   "login": "devnguyen0111",
   "level": 9,
   "overall": "S",
-  "overallPercentile": 0.9677997910645867,
+  "overallPercentile": 0.9678509009287173,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 410,
+      "value": 411,
       "rank": "A",
-      "percentile": 0.9141380570726635
+      "percentile": 0.9143853102951471
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 410
+      "value": 411
     },
     {
       "id": "unbroken",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 99
+      "value": 100
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "boss-slayer",
@@ -176,16 +176,21 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
       "tier": 0,
-      "value": 2
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-24",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-23",
         "cleared": 0,
@@ -360,15 +365,16 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 3,
+    "questsDone": 5,
     "bosses": [
       "2026-11-16"
     ],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
-      "weekend"
+      "weekend",
+      "commit"
     ]
   },
-  "syncedAt": "2026-11-24T03:16:49.371Z"
+  "syncedAt": "2026-11-25T01:21:47.623Z"
 }
