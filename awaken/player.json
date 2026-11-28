@@ -93,12 +93,12 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 46
+      "value": 47
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "weekend-warrior",
@@ -163,22 +163,22 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 12
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -188,11 +188,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 4
+      "value": 5
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -379,11 +384,12 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 9,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 12,
     "bosses": [
+      "2026-11-23",
       "2026-11-16"
     ],
     "escapes": 2,
@@ -391,8 +397,9 @@
       "contribute",
       "weekend",
       "commit",
-      "average"
+      "average",
+      "three"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:11.910Z"
+  "syncedAt": "2026-11-28T00:29:13.964Z"
 }
